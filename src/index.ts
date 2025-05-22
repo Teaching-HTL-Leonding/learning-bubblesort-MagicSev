@@ -48,3 +48,5 @@ function namesSort(numbers: string[]): string[] {
 
   return numbers;
 }
+//sortierprogramm
+console.log("hello")
